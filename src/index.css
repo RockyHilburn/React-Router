@@ -36,15 +36,26 @@ body > div {
 }
 
 .red {
-  background-color: #b05f6d;
+  background-color: #a83246;
   color: white;
 }
 
 .blue {
-  background-color: #275db3;
+  background-color: #154fab;
   color: white;
+}
+
+.green {
+  background-color: forestgreen;
+  color: white;
+}
+
+.yellow {
+  background-color: rgb(255, 247, 96);
+  color: black;
 }
 
 .home {
   background-color: rebeccapurple;
 }
+
